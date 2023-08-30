@@ -1,1 +1,2 @@
 Another file with texts.
+Added new text.
